@@ -2,7 +2,7 @@
 
 Bienvenido a mi Github
 
-https://github.com/FiammaMuscari/github-readme-stats
+Mas información:
 
 <!---
 DLlacsa/DLlacsa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
